@@ -8,6 +8,7 @@ This repository contains a deep learning project focused on sentiment analysis o
 
 - **IMDb Movie Reviews**: The dataset consists of 50,000 movie reviews, split into 25,000 for training and 25,000 for testing. Each review is labeled as either positive or negative, making this a binary classification problem.
 
+link - 'https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews'
 ## Models Used
 
 1. **Bi-directional LSTM**: This model used early stopping with a patience of 5 and achieved the best performance.
